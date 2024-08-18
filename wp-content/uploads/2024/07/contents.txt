@@ -1,0 +1,3 @@
+Brand name: Staqe Protocol
+Mascot: :hedgehog: (Hedgehog Emoji :hedgehog:)
+Tagline: Non-castodial pools for NFT and token staking
